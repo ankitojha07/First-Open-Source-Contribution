@@ -22,4 +22,5 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
 <!-- markdownlint-disable -->
 
  > Ankit Ojha
+ > <br/>
  > Shaik Sonia
