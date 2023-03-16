@@ -17,9 +17,11 @@
 7) Add your name at the end of the readme file with the `>` bracket 🍾.
 
 8) Now save your changes and exit the editor, and follow the bellow commands 
+```
 > git add
-> git commit -m "<your name>"`  
+> git commit -m "<your name>" 
 > git push -u origin main
+```
 
 9) Go to your forked repo page, `sync` your fork and then there you will see a button in green which says `Open pull request`, press it and in the comments section type "Adding my name to contributer list" and press on `create pull request`.
 
