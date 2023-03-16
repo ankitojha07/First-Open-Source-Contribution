@@ -14,13 +14,15 @@
 
 6) Now you will see a folder named `first-open-source-contribution`, open it and edit the `README.md` file using any text editor, VScode for example.
 
-7) Below is a code snippet for reference as to what has to ADDED in the file. Inside the `<b> </b>` tag you have to put your name, in the `<href >` tag, you have to place your github profile URL. And lastly you have to place your github profile photo url inside the `src` tag.
+7) Add your name at the end of the readme file with the `>` bracket 🍾.
 
-
-8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
+8) Now save your changes and exit the editor, and follow the bellow commands 
+> git add
+> git commit -m "<your name>"`  
+> git push -u origin main
 
 9) Go to your forked repo page, `sync` your fork and then there you will see a button in green which says `Open pull request`, press it and in the comments section type "Adding my name to contributer list" and press on `create pull request`.
 
 10) You have created a pull request, wait for a member to review and merge it.
 
-Lastly, GitHub/Git are vital in open-source contributions, to learn more about them check this blog [here]().
+11) 🍾 Congratulations on your first OpenSource Contribution : )
