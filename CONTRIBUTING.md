@@ -19,7 +19,11 @@
 8) Now save your changes and exit the editor, and follow the bellow commands 
 ```
 > git add
+```
+```
 > git commit -m "<your name>" 
+```
+```
 > git push -u origin main
 ```
 
