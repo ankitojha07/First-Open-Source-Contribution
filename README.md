@@ -1,7 +1,7 @@
 # Your first OpenSource Contribution
 
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
+    <a href="https://www.youtube.com/@codeforcoffeee">
         <img src="./hero-image.png"/>
     </a>
 </p>
