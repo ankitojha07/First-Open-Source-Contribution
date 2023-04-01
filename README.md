@@ -26,3 +26,5 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
  > Shaik Sonia
  > <br>
  > Abhishek Lakade
+ > <br />
+ > Indrajit Das
